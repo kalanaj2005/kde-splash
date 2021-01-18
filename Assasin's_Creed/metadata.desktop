@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Assasin's_Creed by KJ
+
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Name=Assasin's_Creed 
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=KJ
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=kalanaj2005@gmail.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=AC 2
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=null
+X-Plasma-MainScript=defaults

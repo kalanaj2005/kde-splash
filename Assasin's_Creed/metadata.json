@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "kalanaj20052gmail.com",
+                "Name": "KJ"
+            }
+        ],
+        "Category": "",
+        "Description": "Assasin's_Creed",
+        
+        "Id": "Assasin's_Creed",
+        "License": "Don,t know what this is",
+        "Name": "Assasin's_Creed",
+        
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "---"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}
